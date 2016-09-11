@@ -1,4 +1,4 @@
-# C_Fairness-Algorithm
+# Fairness Algorithm
  max-min weighted fair share allocation
 
 
